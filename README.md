@@ -49,4 +49,3 @@ Los lenguajes de marcas han evolucionado significativamente desde su creación. 
 
 ---
 
-Este contenido está diseñado para proporcionar una comprensión clara y concisa de la evolución de los lenguajes de marcas, sus ventajas e inconvenientes, y la importancia de los organismos que regulan estos estándares. Si necesitas más ajustes o detalles, házmelo saber.
